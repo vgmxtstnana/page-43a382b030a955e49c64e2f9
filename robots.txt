@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://537fk.com/sitemap.xml
